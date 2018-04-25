@@ -13,6 +13,9 @@ La simulación que hace la realidad virtual se puede referir a *escenas virtuale
 ![
 ](https://www.snailarts.com/wp-content/uploads/2017/02/musica-y-sonidos-para-realidad-virtual.jpg)
 
-
-
+## Subtemas
+- [**Tipos de RV**](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./Tipos)
+- [**Objetivos de la RV**](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./Objetivos)
+- [**Historia de RV**](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./Tipos)
+- [**Dispositivos de RV**](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./dispositivos)
 
