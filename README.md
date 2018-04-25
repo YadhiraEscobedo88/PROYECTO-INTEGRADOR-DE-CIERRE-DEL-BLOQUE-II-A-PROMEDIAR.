@@ -21,7 +21,13 @@ La simulación que hace la realidad virtual se puede referir a *escenas virtuale
 - [**Dispositivos de RV**](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./dispositivos)
 - [**Realidad Virtual VS Realidad Aumentadad**](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./RVvsRA)
 
-# Integrantes
+# Visita Nuestra Wiki!
+
+- https://github.com/YadhiraEscobedo88/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./wiki
+
+
+
+## Integrantes
 
 - Escobedo Tellez Yadhira Lisset
 - Lares Casanova Andrea Isabel
