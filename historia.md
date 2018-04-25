@@ -1,3 +1,6 @@
+![enter image description here](https://images.cooltext.com/5136779.png)
+
+<a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_button.gif" width="88" height="31" alt="Cool Text: Generador de Logotipos y Gráficos." /></a>
 
 El origen de la  **realidad virtual**  fue gracias al sistema desarrollado por la compañía Philco Corporation en el año 1958. Este sistema había sido diseñado para lograr la generación de entornos artificiales, a los cuales podían acceder las personas mediante la utilización de un dispositivo visual en forma de casco, que podía ser controlado a través de los movimientos que los usuarios realizaban con sus cabezas.
 
