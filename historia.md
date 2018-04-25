@@ -9,3 +9,6 @@ Poco tiempo después, los avances en esta área lograron incorporar un sin fin d
 
 
 ![enter image description here](https://media.giphy.com/media/Vp4cpDCA4Pwm4/giphy.gif)
+
+
+[PAGINA PRINCIPAL](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./) 
