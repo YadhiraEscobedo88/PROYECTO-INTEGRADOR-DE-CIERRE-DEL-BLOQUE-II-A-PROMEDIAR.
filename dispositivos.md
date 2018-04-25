@@ -1,6 +1,10 @@
+(Secretaria CoolText :"v insertar plis "DISPOSITIVOS DE RV ACTUALES") 
+
+
+
 ![enter image description here](https://s-media-cache-ak0.pinimg.com/originals/ee/ae/36/eeae36f824a5ca8ea2d5596c85d402cc.jpg)
 
-Cada día, esta tecnología se adaptando en nuevos sectores como en las ingenierías, la industria de los videojuegos, y hasta la medicina. En la actualidad, la mayoría de los grandes fabricantes tienen una alternativa de VR, por lo que a continuación te señalamos los mejores dispositivos de realidad virtual que están disponibles en el mercado. 
+**Cada día, esta tecnología se adaptando en nuevos sectores como en las ingenierías, la industria de los videojuegos, y hasta la medicina. En la actualidad, la mayoría de los grandes fabricantes tienen una alternativa de VR, por lo que a continuación te señalamos los mejores dispositivos de realidad virtual que están disponibles en el mercado.** 
 
 
 | NOMBRE  | COMPAÑÍA  | EQUIPO  |  APARIENCIA |
