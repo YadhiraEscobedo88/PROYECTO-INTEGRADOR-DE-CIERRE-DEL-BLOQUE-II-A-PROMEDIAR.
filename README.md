@@ -11,3 +11,5 @@ La realidad virtual se podría definir como un sistema informático generado en 
 
 La simulación que hace la realidad virtual se puede referir a escenas virtuales, creando un mundo virtual que sólo existe en el ordenador de lugares u objetos que existen en la realidad. También permite capturar la voluntad implícita del usuario en sus movimientos naturales proyectándolos en el mundo virtual que estamos generando, permitiendo el hundimiento total en mundo virtual, desconectando los sentidos completamente de la realidad teniendo la sensación la persona que está dentro de que la realidad corresponde en el mundo virtual.
 
+![
+](https://www.snailarts.com/wp-content/uploads/2017/02/musica-y-sonidos-para-realidad-virtual.jpg)
