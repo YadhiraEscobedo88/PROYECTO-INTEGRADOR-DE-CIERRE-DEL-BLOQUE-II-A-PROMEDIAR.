@@ -13,7 +13,6 @@ Es claro que ambas tecnologías comparten muchos puntos en común pero su objeti
 
 ![ra-visuartech](http://www.visuartech.com/wp-content/uploads/2015/09/ra-visuartech.png)
 
-### **Realidad Aumentada**
 
 La  **Realidad Aumentada**  es cuando a la realidad existente incorporamos elementos adicionales sean del tipo que sean. Estamos enriqueciendo la realidad existente con otras informaciones útiles y/o necesarias. Por ejemplo, cuando enfocamos hacia un elemento real (como una válvula) y sobre la misma se superpone información extra.
 
@@ -23,9 +22,6 @@ La  **Realidad Aumentada**  es cuando a la realidad existente incorporamos eleme
 
 ## Realidad Virtual 
 ![vr-visuartech](http://www.visuartech.com/wp-content/uploads/2015/09/vr-visuartech.png)
-
-
-### **Realidad Virtual**
 
 
 En la  **Realidad Virtual**  todo lo que vemos es virtual, no existe nada real. Se suele utilizar mediante gafas y sistemas donde no podemos apreciar la realidad existente. Por ejemplo, modelamos en 3D una nave industrial aún por construir y nos colocamos dentro para experimentar como será de grande, elementos que llevará, etc.
