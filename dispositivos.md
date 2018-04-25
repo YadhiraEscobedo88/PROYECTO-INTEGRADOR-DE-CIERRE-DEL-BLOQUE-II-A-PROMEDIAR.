@@ -13,3 +13,6 @@
 | Sony PlayStation VR  | Sony |  PS4 | ![enter image description here](https://www.bhphotovideo.com/images/images2000x2000/sony_3001560_playstation_vr_ps4_1245989.jpg)  |
 | HTC Vive  | HTC  |  PC | ![enter image description here](https://www.vive.com/media/filer_public/4a/b3/4ab384fb-37e4-40ec-8205-cd39d4f4d3ca/vive-be-vr-system-family.png)  |
 |  Samsung Gear VR |Samsung |PC/Consola de Videojuego  |  ![enter image description here](https://smhttp-ssl-68749.nexcesscdn.net/media/catalog/product/cache/1/image/720x660/9df78eab33525d08d6e5fb8d27136e95/s/a/sam-gearvr_01.jpg) |
+
+
+[PAGINA PRINCIPAL](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./) 
