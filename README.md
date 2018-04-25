@@ -18,4 +18,4 @@ La simulación que hace la realidad virtual se puede referir a *escenas virtuale
 - [**Objetivos de la RV**](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./Objetivos)
 - [**Historia de RV**](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./Tipos)
 - [**Dispositivos de RV**](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./dispositivos)
-- [**Realidad Virtual VS Realidad Aumentadad**](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./RV. vs RA)
+- [**Realidad Virtual VS Realidad Aumentadad**](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./RVvsRA)
