@@ -1,4 +1,6 @@
+![enter image description here](https://images.cooltext.com/5136778.png)
 
+<a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_button.gif" width="88" height="31" alt="Cool Text: Generador de Logotipos y Gráficos." /></a>
 
 
 La **realidad virtual** ha revolucionado el mundo en sus diversos ámbitos, más allá de la informática, ya que esta técnica también es ampliamente utilizada en entornos médicos, educativos, espaciales y una larga lista de actividades científicas. Esto ha sido posible, no sólo por el  atractivo que presenta la RV para las personas, sino también por la  enorme cantidad de ventajas y funcionalidades que ofrece esta disciplina.
