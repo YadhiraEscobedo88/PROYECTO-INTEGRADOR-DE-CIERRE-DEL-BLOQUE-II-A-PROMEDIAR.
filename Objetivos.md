@@ -10,3 +10,8 @@ Se intenta lograr que la realidad virtual alcance los objetivos para los cuales 
 La idea fundamental, para lo cual fue desarrollada la realidad virtual, ha sido desde siempre lograr la creación de un mundo irreal pero posible, por lo que se lo ha dotado de objetos que poseen relaciones entre ellos y permiten la interacción de las personas en dicho universo irreal.
 
 ![](https://www.nmy.de/media/mainteaser/ar_home.jpg)
+
+
+[Página Principal](
+https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./
+)
