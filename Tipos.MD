@@ -18,3 +18,7 @@ Con este tipo de realidad, tendremos la sensación de estar “inmersos” en un
 
 
 La realidad virtual no inmersiva ofrece un nuevo mundo a través de una ventana de escritorio. Este enfoque no inmersivo tiene varias ventajas sobre el enfoque inmersivo como: bajo costo y fácil y rápida aceptación de los usurarios. La realidad virtual no inmersiva utiliza medios como el que actualmente nos ofrece Internet en el cual podemos interactuar a tiempo real con diferentes personas en espacios y ambientes que en realidad no existen sin la necesidad de dispositivos adicionales a la computadora.
+
+[Página Principal](
+https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./
+)
