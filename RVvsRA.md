@@ -28,3 +28,7 @@ En la  **Realidad Virtual**  todo lo que vemos es virtual, no existe nada real. 
 
 ![
 ](https://tctechcrunch2011.files.wordpress.com/2014/12/nimble.gif?w=640&h=347)
+
+
+[PAGINA PRINCIPAL](https://yadhiraescobedo88.github.io/PROYECTO-INTEGRADOR-DE-CIERRE-DEL-BLOQUE-II-A-PROMEDIAR./) 
+
