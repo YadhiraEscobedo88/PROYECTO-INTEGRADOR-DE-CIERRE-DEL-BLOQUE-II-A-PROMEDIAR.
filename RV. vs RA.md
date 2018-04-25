@@ -27,6 +27,6 @@ La  **Realidad Aumentada**  es cuando a la realidad existente incorporamos eleme
 
 
 En la  **Realidad Virtual**  todo lo que vemos es virtual, no existe nada real. Se suele utilizar mediante gafas y sistemas donde no podemos apreciar la realidad existente. Por ejemplo, modelamos en 3D una nave industrial aún por construir y nos colocamos dentro para experimentar como será de grande, elementos que llevará, etc.
-![
 
+![
 ](https://tctechcrunch2011.files.wordpress.com/2014/12/nimble.gif?w=640&h=347)
